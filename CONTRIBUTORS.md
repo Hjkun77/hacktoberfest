@@ -1108,3 +1108,8 @@ Noida
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
+#### Name: [Tomas Alejandro V. Falgui III](https://github.com/tomy8910)
+- Place: General Santos City, Philippines
+- Bio: High School Student / Developer
+- Github: [Tomas Alejandro V. Falgui III](https://github.com/tomy8910)
+
